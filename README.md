@@ -1,4 +1,4 @@
-# whosgotch
+# 🏹 whosgotch
 
 **`Python Developer`**
 
@@ -17,6 +17,8 @@ I'm a python developer and student, building my version of the digital world one
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <br />
+
+#
 
 ### 📊 Stats
 
