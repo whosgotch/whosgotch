@@ -6,7 +6,7 @@ I'm a python developer and student, building my version of the digital world one
 
 ---
 
-### Languages and Tools
+### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -27,3 +27,7 @@ I'm a python developer and student, building my version of the digital world one
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=whosgotch&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+<summary><h3>👨‍💻 whosgotch's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer enginerring student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself game development with a dream to build my own game, but that soon got overshadowed by my desire to excel in Python. I've started developing web apps that helps me in my daily routine. Throw that process, I've learned a lot about webservices, databases and the process of a development tech projects. 
+   
