@@ -28,6 +28,3 @@ I'm a python developer and student, building my version of the digital world one
 
 #
 
-<details>
-<summary><h3>👨‍💻 whosgotch's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer enginerring student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself game development with a dream to build my own game, but that soon got overshadowed by my desire to excel in Python. I've started developing web apps that helps me in my daily routine. Throw that process, I've learned a lot about webservices, databases and the process of a development tech projects. 
