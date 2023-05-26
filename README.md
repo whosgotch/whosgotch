@@ -22,9 +22,5 @@ I'm a python developer and student, building my version of the digital world one
 
 ### 📊 Stats
 
-![whosgotch's GitHub stats](https://github-readme-stats.vercel.app/api?username=whosgotch&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=whosgotch&theme=gruvbox&border_radius=4.5) -->
-
 #
 
