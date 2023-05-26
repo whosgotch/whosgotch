@@ -19,8 +19,3 @@ I'm a python developer and student, building my version of the digital world one
 <br />
 
 #
-
-### 📊 Stats
-
-#
-
