@@ -2,7 +2,7 @@
 
 **`Python Developer`**
 
-I'm a python developer and student, building my version of the digital world one step at a time. All coding projects are build from the ground up, from planning and designing all the way to solving real-life problems with code. I'm still studying, so I would appreciate your review on my projects.
+I'm a python developer, building my version of the digital world one step at a time. All coding projects are build from the ground up, from planning and designing all the way to solving real-life problems with code. I'm still studying, so I would appreciate your review on my projects.
 
 ---
 
